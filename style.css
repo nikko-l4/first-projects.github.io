@@ -1,0 +1,94 @@
+.all {
+    margin-left: 3%;
+    margin-right: 3%;
+    background-color: rgb(83, 255, 255);
+    border-radius: 20px;
+}
+
+.table {  
+    background-color: cyan;
+    border-radius: 18px;
+    text-align: center;
+    margin: auto;
+}
+
+#image {
+    border-radius: 18px;
+}
+
+.social {
+    text-align: center;
+    background-color: cyan;
+    border-radius: 18px;
+    padding: 5px;
+    margin: 0px 170px;
+}
+
+#aa {
+    text-decoration: none;
+}
+
+#lii {
+    list-style-type: none;
+}
+
+.td2 {
+    text-align: center;
+    margin: auto;
+}
+
+#hh {
+    text-align: center;
+}
+
+.exp {
+    padding-top: 1px;
+    padding-bottom: 8px;
+    background-color: cyan;
+    border-radius: 18px;
+    margin-top: 15px;
+    margin-left: 170px;
+    margin-right: 170px;
+}
+
+.td1 {
+    margin: 15px 0px;
+    border-top: 15px;
+}
+
+.page {
+    text-align: center;
+    background-color: cyan;
+    border-radius: 18px;
+    padding-top: 1px;
+    padding-bottom: 8px;
+    margin: 15px 170px;
+}
+
+#a {
+    text-decoration: none;
+}
+
+.int {
+    border-radius: 18px;
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: cyan;
+    padding-top: 1px;
+    margin: 0px 170px;
+}
+
+#but {
+    background-color: bisque;
+    border: 3px solid whitesmoke;
+    height: 20px;
+    border-radius: 4px;
+}
+
+#intt {
+    background: transparent;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom-color: black;
+}
